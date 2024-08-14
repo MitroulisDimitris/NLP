@@ -1,5 +1,7 @@
-This repository consists of simple Neural network models created for educational purposes.  
-Feel free to use my models, but know that they are neither the best, nor the most optimized.  
-I've made som extra comments to better help you understand what's going on and in the future i'll add more examples 
-"# NLP" 
-"# NLP" 
+### Collection of NLP-centered applications using various Machine learning methods
+
+1.  **Article Spinner**: Simple statistical article spinner
+2. **Cypher Decrypt**: Encrypt and Decerypt text using Genetic algorithms
+3. **Sentiment Analysis**: Ratings sentiment analysis using logistical multiclass regression
+4. **Spam Detection**: Email spam detection using Naive Bayes model
+5. **Text Summarization**: Article Summarization using Text Rank and Vector Based Sorting.
