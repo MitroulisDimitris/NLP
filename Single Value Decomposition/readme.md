@@ -1,6 +1,6 @@
 
 ## Single Value Decomposition projects
-Single Value Decomposition is a mathematical technique used in linear algebra to factorize a matrix into three distinct matrices. Given a matrix A, SVD decomposes it as follows:
+SVD is a mathematical technique used in linear algebra to factorize a matrix into three distinct matrices. Given a matrix A, SVD decomposes it as follows:
 
 **A = UΣV^Τ^**
 
